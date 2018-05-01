@@ -1,0 +1,22 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav.navbar {
+    background: #2c3e50;
+    color: white;
+}
+
+.pink {
+    border: 2px solid deeppink;
+    background: lightpink;
+    padding: 15px;
+}
+.jumbotron {
+    margin-top: 85px;
+    background: #ecf0f1;;
+}
+
+i.fas{
+    margin-right: 10px;
+}
